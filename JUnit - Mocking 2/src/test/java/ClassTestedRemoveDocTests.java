@@ -21,7 +21,7 @@ public class ClassTestedRemoveDocTests {
     ClassTested testedClass = new ClassTested();
 
     @Mock
-    Collaborator collaborator = mock(Collaborator.class);
+    Collaborator collaborator = strictMock(Collaborator.class);
 
     @Before
     public void before() {
@@ -39,11 +39,14 @@ public class ClassTestedRemoveDocTests {
     public void testRemoveNotVotedDoc() {
         boolean retVal;
         testedClass.addDocument("Document1", "Test");
-        reset(collaborator);
+
+        resetToStrict(collaborator);
         expect(collaborator.voteForRemoval("Document1")).andReturn((byte) 0).times(1);
+
         replay(collaborator);
         retVal = testedClass.removeDocument("Document1");
         verify(collaborator);
+
         assertFalse("Expected false when deleting the document", retVal);
     }
 
@@ -51,12 +54,15 @@ public class ClassTestedRemoveDocTests {
     public void testRemoveVotedDoc() {
         boolean retVal;
         testedClass.addDocument("Document1", "Test");
-        reset(collaborator);
+
+        resetToStrict(collaborator);
         expect(collaborator.voteForRemoval("Document1")).andReturn((byte) 1).times(1);
         collaborator.documentRemoved("Document1");
+
         replay(collaborator);
         retVal = testedClass.removeDocument("Document1");
         verify(collaborator);
+
         assertTrue("Expected to be true as document remooved ok", retVal);
     }
 
@@ -65,10 +71,12 @@ public class ClassTestedRemoveDocTests {
         boolean retVal;
         testedClass.addDocument("Document1", "test");
         testedClass.addDocument("Document2", "test");
-        reset(collaborator);
+
+        resetToStrict(collaborator);
         expect(collaborator.voteForRemovals("Document1", "Document2")).andReturn((byte)1);
         collaborator.documentRemoved("Document1");
         collaborator.documentRemoved("Document2");
+
         replay(collaborator);
         testedClass.removeDocuments("Document1", "Document2");
         verify(collaborator);

@@ -1,5 +1,6 @@
 import main.ClassTested;
 import main.Collaborator;
+import org.easymock.EasyMock;
 import org.easymock.EasyMockRunner;
 import org.easymock.Mock;
 import org.easymock.TestSubject;
@@ -20,7 +21,7 @@ public class ClassTestedAddDocTests {
     ClassTested testedClass = new ClassTested();
 
     @Mock
-    Collaborator collaborator = mock(Collaborator.class);
+    Collaborator collaborator = strictMock(Collaborator.class);
 
     @Before
     public void before() {
@@ -29,8 +30,10 @@ public class ClassTestedAddDocTests {
 
     @Test
     public void testAddNotify() {
+        resetToStrict(collaborator);
         collaborator.documentAdded("Document1");
         collaborator.documentChanged("Document1");
+
         replay(collaborator);
         testedClass.addDocument("Document1", "Test");
         testedClass.addDocument("Document1", "Test");
@@ -39,8 +42,10 @@ public class ClassTestedAddDocTests {
 
     @Test
     public void testModifyNotify() {
+        resetToStrict();
         collaborator.documentAdded("Document1");
         collaborator.documentChanged("Document1");
+
         replay(collaborator);
         testedClass.addDocument("Document1", "Test");
         testedClass.addDocument("Document1", "Test2");
