@@ -1,3 +1,4 @@
+import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
@@ -7,9 +8,15 @@ import static org.junit.Assert.assertEquals;
  */
 public class MyClassDivisionTest {
 
+    MyClass testClass;
+
+    @Before
+    public void before() {
+        testClass = new MyClass();
+    }
+
     @Test
     public void testDivision() {
-        MyClass testClass = new MyClass();
         int num1 = 12;
         int num2 = 6;
         int expected = 2;
@@ -17,9 +24,9 @@ public class MyClassDivisionTest {
         result = testClass.division(num1, num2);
         assertEquals(expected, result);
     }
+
     @Test
     public void testDivisionZero() {
-        MyClass testClass = new MyClass();
         int num1 = 12;
         int num2 = 0;
         int expected = -1;

@@ -2,37 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc836382-0377-40a1-8cff-d54df60b03f5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/CifradoCesarTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JUnit EasyMockup - Web Login/src/test/java/authTests/AuthTestSuite.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JUnit EasyMockup - Web Login/src/test/java/modelTests/ModelTestSuite.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JUnit EasyMockup - Web Login/src/test/java/modelTests/UserTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JWebUnit - Web Login 2/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JWebUnit - Web Login 2/web/WEB-INF/web.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JUnit - TestSuites/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JUnit - TestSuites/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JUnit - TestSuites/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JUnit - TestSuites/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JUnit - TestSuites/.idea/libraries/Maven__junit_junit_4_11.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JUnit - TestSuites/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JUnit - TestSuites/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JUnit - TestSuites/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JUnit - TestSuites/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JUnit - TestSuites/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JUnit - TestSuites/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JUnit - TestSuites/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JUnit - TestSuites/Doxyfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JUnit - TestSuites/JUnitTest1.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JUnit - TestSuites/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JUnit - TestSuites/src/main/java/MyClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JUnit - TestSuites/src/test/java/MyClassBoolTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JUnit - TestSuites/src/test/java/MyClassDivisionTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JUnit - TestSuites/src/test/java/MyClassFactorialTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JUnit - TestSuites/src/test/java/MyClassMultiplyTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JUnit - TestSuites/src/test/java/MyClassSumaTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JUnit - TestSuites/src/test/java/MyClassTestSuite.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JUnit EasyMockup - Web Login/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JUnit EasyMockup - Web Login/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JUnit EasyMockup - Web Login/src/test/java/WebLoginTestSuite.java" afterPath="$PROJECT_DIR$/../JUnit EasyMockup - Web Login/src/test/java/WebLoginTestSuite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/CifradoCesar.java" afterPath="$PROJECT_DIR$/src/main/java/CifradoCesar.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/CifradoCesarTest.java" afterPath="$PROJECT_DIR$/src/test/java/CifradoCesarTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JUnit - Fibonacci/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JUnit - Fibonacci/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JUnit - Fibonacci/pom.xml" afterPath="$PROJECT_DIR$/../JUnit - Fibonacci/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JUnit - Fibonacci/src/main/java/Fibonacci.java" afterPath="$PROJECT_DIR$/../JUnit - Fibonacci/src/main/java/Fibonacci.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JUnit - Fibonacci/src/test/java/FibonacciTest.java" afterPath="$PROJECT_DIR$/../JUnit - Fibonacci/src/test/java/FibonacciTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JUnit - IO Streams/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JUnit - IO Streams/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JUnit - TestSuites(first)/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JUnit - TestSuites(first)/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JUnit - TestSuites(first)/pom.xml" afterPath="$PROJECT_DIR$/../JUnit - TestSuites(first)/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JUnit - TestSuites(first)/src/main/java/MyClass.java" afterPath="$PROJECT_DIR$/../JUnit - TestSuites(first)/src/main/java/MyClass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JUnit - TestSuites(first)/src/test/java/MyClassBoolTest.java" afterPath="$PROJECT_DIR$/../JUnit - TestSuites(first)/src/test/java/MyClassBoolTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JUnit - TestSuites(first)/src/test/java/MyClassDivisionTest.java" afterPath="$PROJECT_DIR$/../JUnit - TestSuites(first)/src/test/java/MyClassDivisionTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JUnit - TestSuites(first)/src/test/java/MyClassFactorialTest.java" afterPath="$PROJECT_DIR$/../JUnit - TestSuites(first)/src/test/java/MyClassFactorialTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JUnit - TestSuites(first)/src/test/java/MyClassMultiplyTest.java" afterPath="$PROJECT_DIR$/../JUnit - TestSuites(first)/src/test/java/MyClassMultiplyTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JUnit - TestSuites(first)/src/test/java/MyClassSumaTest.java" afterPath="$PROJECT_DIR$/../JUnit - TestSuites(first)/src/test/java/MyClassSumaTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JUnit - TestSuites(first)/src/test/java/MyClassTestSuite.java" afterPath="$PROJECT_DIR$/../JUnit - TestSuites(first)/src/test/java/MyClassTestSuite.java" />
     </list>
     <ignored path="JUnit - Cesar Cipher.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,7 +35,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/JUnit - Cesar Cipher$CifradoCesarTest.coverage" NAME="CifradoCesarTest Coverage Results" MODIFIED="1458158855976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/JUnit - Cesar Cipher$CifradoCesarTest.coverage" NAME="CifradoCesarTest Coverage Results" MODIFIED="1458160518755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -58,11 +45,11 @@
     <favorites_list name="JUnit - Cesar Cipher" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.625">
+            <state vertical-scroll-proportion="0.0">
               <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
               <folding />
             </state>
@@ -73,8 +60,15 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/CifradoCesar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-              <folding />
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding>
+                <element signature="e#95#96#0" expanded="false" />
+                <element signature="e#131#132#0" expanded="false" />
+                <element signature="e#555#556#0" expanded="false" />
+                <element signature="e#602#603#0" expanded="false" />
+                <element signature="e#641#642#0" expanded="false" />
+                <element signature="e#691#692#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,12 +76,9 @@
       <file leaf-file-name="CifradoCesarTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/CifradoCesarTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0187861">
+            <state vertical-scroll-proportion="0.7379679">
               <caret line="55" column="96" selection-start-line="55" selection-start-column="96" selection-end-line="55" selection-end-column="96" />
-              <folding>
-                <element signature="e#547#548#0" expanded="true" />
-                <element signature="e#588#589#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -166,7 +157,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -253,7 +244,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -812,6 +803,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -882,7 +878,8 @@
       <created>1458128013860</created>
       <option name="number" value="Default" />
       <updated>1458128013860</updated>
-      <workItem from="1458128017493" duration="3518000" />
+      <workItem from="1458128017493" duration="3565000" />
+      <workItem from="1458161163159" duration="9000" />
     </task>
     <servers />
   </component>
@@ -891,6 +888,9 @@
       <configuration name="CifradoCesarTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="CifradoCesarTest - 2016.03.16 at 21h 07m 36s.xml">
+      <configuration name="CifradoCesarTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CifradoCesarTest - 2016.03.16 at 21h 35m 19s.xml">
       <configuration name="CifradoCesarTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="CifradoCesarTest_testCifrarCadena - 2016.03.16 at 21h 05m 35s.xml">
@@ -910,36 +910,36 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3518000" />
+    <option name="totallyTimeSpent" value="3574000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1053" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26742977" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25078043" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.185836" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.185836" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26742977" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25078043" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -956,7 +956,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.625">
+        <state vertical-scroll-proportion="0.0">
           <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
           <folding />
         </state>
@@ -966,18 +966,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-          <folding />
+          <folding>
+            <element signature="e#95#96#0" expanded="false" />
+            <element signature="e#131#132#0" expanded="false" />
+            <element signature="e#555#556#0" expanded="false" />
+            <element signature="e#602#603#0" expanded="false" />
+            <element signature="e#641#642#0" expanded="false" />
+            <element signature="e#691#692#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CifradoCesarTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0187861">
-          <caret line="55" column="96" selection-start-line="55" selection-start-column="96" selection-end-line="55" selection-end-column="96" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CifradoCesar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#95#96#0" expanded="false" />
+            <element signature="e#131#132#0" expanded="false" />
+            <element signature="e#555#556#0" expanded="false" />
+            <element signature="e#602#603#0" expanded="false" />
+            <element signature="e#641#642#0" expanded="false" />
+            <element signature="e#691#692#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CifradoCesarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7379679">
+          <caret line="55" column="96" selection-start-line="55" selection-start-column="96" selection-end-line="55" selection-end-column="96" />
+          <folding />
         </state>
       </provider>
     </entry>
