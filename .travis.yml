@@ -1,13 +1,13 @@
 language: java
 env:
-  - TEST_DIR="'JUnit - Calculator'"
-  - TEST_DIR="'JUnit - Cesar Cipher'"
-  - TEST_DIR="'JUnit - Exam 1'"
-  - TEST_DIR="'JUnit - Fibonacci'"
-  - TEST_DIR="'JUnit - IO Streams'"
-  - TEST_DIR="'JUnit - Mocking 1'"
-  - TEST_DIR="'JUnit - Mocking 2'"
-  - TEST_DIR="'JUnit - TestSuites(first)'"
-  - TEST_DIR="'JUnit EasyMockup - StockMarket'"
-  - TEST_DIR="'JUnit EasyMockup - Web Login'"
+  - TEST_DIR="JUnit\ -\ Calculator"
+  - TEST_DIR="JUnit\ -\ Cesar Cipher"
+  - TEST_DIR="JUnit\ -\ Exam 1"
+  - TEST_DIR="JUnit\ -\ Fibonacci"
+  - TEST_DIR="JUnit\ -\ IO Streams"
+  - TEST_DIR="JUnit\ -\ Mocking 1"
+  - TEST_DIR="JUnit\ -\ Mocking 2"
+  - TEST_DIR="JUnit\ -\ TestSuites(first)"
+  - TEST_DIR="JUnit\ EasyMockup\ -\ StockMarket"
+  - TEST_DIR="JUnit\ EasyMockup\ -\ Web Login"
 script: cd $TEST_DIR && mvn install -DskipTests=true && mvn test
